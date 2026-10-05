@@ -80,6 +80,10 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
+🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/lobwick">Lobwick/lobwick</a>
+🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/lobwick">Lobwick/lobwick</a>
+📻 <b>2026-10-05</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/d2317b748f1a7e08b06f8d19323c3b96a1d14d28">newteamspecializedlille/newteamspecializedlille.github.io</a>
+📻 <b>2026-10-05</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/da42501682b672344f27d2fc67edd1d54eb1114d">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-09-30</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/b55d6ad21f124575fd3560502e8201226cec9a9f">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-09-19</b> Push sur <a href="https://github.com/Lobwick/sophie-revision/commit/07ecf2f4054920215119b1452c5be8e76a99992f">Lobwick/sophie-revision</a>
 🆕 <b>2026-09-19</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/sophie-revision">Lobwick/sophie-revision</a>
