@@ -96,7 +96,7 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <p align="left">
   <a href="https://github.com/Lobwick" target="_blank"><img align="center" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/moulinfelix/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/moulinfelix/" target="_blank"><img align="center" src="./assets/social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.strava.com/athletes/24292544" target="_blank"><img align="center" src="https://cdn.simpleicons.org/strava/FC4C02" alt="Strava" height="30" width="40" /></a>
   <a href="https://www.instagram.com/lobwick/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30" width="40" /></a>
 </p>
