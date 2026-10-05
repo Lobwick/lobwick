@@ -80,6 +80,7 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
+📻 <b>2026-10-05</b> Push sur <a href="https://github.com/Lobwick/lobwick/commit/bd7a6b268040fabd41dafb40845e696775a27b7d">Lobwick/lobwick</a>
 🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/lobwick">Lobwick/lobwick</a>
 🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/lobwick">Lobwick/lobwick</a>
 📻 <b>2026-10-05</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/d2317b748f1a7e08b06f8d19323c3b96a1d14d28">newteamspecializedlille/newteamspecializedlille.github.io</a>
