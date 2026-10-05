@@ -1,0 +1,30 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dossard de course: Felix, Senior Software Engineer chez Decathlon Digital, passionne de cyclisme">
+  <style>
+    .wordmark { font: 800 15px "Segoe UI", Helvetica, Arial, sans-serif; fill: #1a4fd6; letter-spacing: 0.12em; }
+    .reg { font: 600 11px "Segoe UI", Helvetica, Arial, sans-serif; fill: #6b7280; letter-spacing: 0.08em; }
+    .number { font: 900 128px "Segoe UI", Helvetica, Arial, sans-serif; fill: #0f1115; }
+    .name { font: 800 30px "Segoe UI", Helvetica, Arial, sans-serif; fill: #0f1115; letter-spacing: 0.03em; }
+    .team { font: 700 15px "Segoe UI", Helvetica, Arial, sans-serif; fill: #1a4fd6; letter-spacing: 0.06em; }
+    .tagline { font: 600 13px "Segoe UI", Helvetica, Arial, sans-serif; fill: #374151; }
+    .handle { font: 600 12px "Segoe UI", Helvetica, Arial, sans-serif; fill: #6b7280; }
+  </style>
+
+  <rect x="2" y="2" width="996" height="256" rx="16" fill="#ffffff" stroke="#0f1115" stroke-width="3"/>
+  <circle cx="34" cy="34" r="8" fill="#ffffff" stroke="#0f1115" stroke-width="2.5"/>
+  <circle cx="966" cy="34" r="8" fill="#ffffff" stroke="#0f1115" stroke-width="2.5"/>
+
+  <text x="50" y="40" class="wordmark">LE CODE TOUR</text>
+  <text x="950" y="40" text-anchor="end" class="reg">ÉTAPE ∞ · ÉDITION GITHUB</text>
+  <line x1="40" y1="54" x2="960" y2="54" stroke="#e5e7eb" stroke-width="2"/>
+
+  <text x="60" y="190" class="number">1</text>
+
+  <text x="300" y="120" class="name">FÉLIX</text>
+  <text x="300" y="150" class="team">DEC · DECATHLON DIGITAL</text>
+  <text x="300" y="178" class="tagline">🚴 Cyclisme · Grands Tours &amp; Classiques · 🩺 Tech santé connectée</text>
+  <text x="300" y="200" class="handle">github.com/Lobwick</text>
+
+  <rect x="0" y="224" width="1000" height="36" rx="0" fill="#0f1115"/>
+  <text x="50" y="247" class="reg" fill="#ffffff">SENIOR SOFTWARE ENGINEER</text>
+  <text x="950" y="247" text-anchor="end" class="reg" fill="#ffffff">MAILLOT JAUNE · MAILLOT VERT · MAILLOT À POIS · MAILLOT BLANC</text>
+</svg>

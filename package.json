@@ -1,0 +1,13 @@
+{
+  "name": "lobwick-profile",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "GitHub profile README — themed as a Grand Tour, generated from live stats.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "generate": "node scripts/generate.mjs"
+  }
+}

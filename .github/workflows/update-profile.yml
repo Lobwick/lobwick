@@ -1,0 +1,50 @@
+name: Mise à jour du profil (étape du jour)
+
+on:
+  schedule:
+    # Toutes les 6 heures — le peloton ne s'arrête jamais.
+    - cron: "0 */6 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Générer les assets (dossard, étape, carte, maillots, carnet de route)
+        env:
+          GITHUB_LOGIN: Lobwick
+          # Le GITHUB_TOKEN par défaut suffit pour les données publiques.
+          # Si le quota GraphQL est trop juste, ajoute un secret GH_PAT
+          # (scope read:user) et il prendra le dessus.
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate.mjs
+
+      - name: Commit si changement
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "Rien à mettre à jour — étape de repos."
+          else
+            git add assets README.md
+            git commit -m "chore: mise à jour de l'étape (stats en direct)"
+            git push
+          fi

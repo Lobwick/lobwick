@@ -1,0 +1,25 @@
+<svg width="1000" height="320" viewBox="0 0 1000 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Profil d'etape: contributions GitHub de l'annee">
+  <style>
+    .title { font: 800 18px "Segoe UI", Helvetica, Arial, sans-serif; fill: #e6edf3; }
+    .sub { font: 500 13px "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .tick { font: 600 11px "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; text-anchor: middle; }
+    .kom { font: 700 12px "Segoe UI", Helvetica, Arial, sans-serif; fill: #e8384f; }
+    .grid-line { stroke: #30363d; stroke-width: 1; stroke-dasharray: 3 4; }
+  </style>
+  <rect x="0" y="0" width="1000" height="320" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <text x="26" y="28" class="title">PROFIL DE LA SAISON</text>
+  <text x="26" y="306" class="sub"></text>
+  <line x1="50" y1="230" x2="970" y2="230" class="grid-line"/>
+  <defs>
+    <linearGradient id="fill-dark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2f81f7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#2f81f7" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <path d="M50.0,230.0 L970.0,230 L50,230 Z" fill="url(#fill-dark)"/>
+  <path d="M50.0,230.0" fill="none" stroke="#2f81f7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="50.0" cy="230.0" r="4.5" fill="#e8384f" stroke="#161b22" stroke-width="1.5"/>
+  <text x="60.0" y="218.0" class="kom" text-anchor="middle">⛰ KOM · 0</text>
+  <rect x="50.0" y="246" width="920.0" height="14" fill="#8c959f"/>
+  <text x="50.0" y="276" class="tick">oct</text>
+</svg>

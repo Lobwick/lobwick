@@ -1,0 +1,30 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Radio Tour: stats GitHub en direct">
+  <style>
+    .label { font: 600 14px "Segoe UI", Helvetica, Arial, sans-serif; fill: #57606a; letter-spacing: 0.06em; }
+    .value { font: 700 16px "Segoe UI", Helvetica, Arial, sans-serif; }
+    .title { font: 800 18px "Segoe UI", Helvetica, Arial, sans-serif; fill: #ffffff; letter-spacing: 0.04em; }
+    .sub { font: 500 12px "Segoe UI", Helvetica, Arial, sans-serif; fill: #ffffffcc; }
+    .dot { animation: pulse 1.6s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.25; } }
+  </style>
+  <rect x="0" y="0" width="900" height="320" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <rect x="0" y="0" width="900" height="56" rx="14" fill="#2f81f7"/>
+  <rect x="0" y="40" width="900" height="16" fill="#2f81f7"/>
+  <circle class="dot" cx="32" cy="28" r="6" fill="#ff4136"/>
+  <text x="52" y="24" class="title">RADIO TOUR — DIRECT</text>
+  <text x="52" y="42" class="sub">Senior Software Engineer @ Decathlon Digital</text>
+  
+    <text x="40" y="118" class="label">COUREUR</text>
+    <text x="860" y="118" text-anchor="end" class="value" fill="#1f2328">Félix Moulin (@Lobwick)</text>
+    <text x="40" y="150" class="label">DOSSARD</text>
+    <text x="860" y="150" text-anchor="end" class="value" fill="#2f81f7">#1 — DEC</text>
+    <text x="40" y="182" class="label">CLASSEMENT (repos publics)</text>
+    <text x="860" y="182" text-anchor="end" class="value" fill="#1f2328">11</text>
+    <text x="40" y="214" class="label">ÉTOILES CUMULÉES</text>
+    <text x="860" y="214" text-anchor="end" class="value" fill="#FFD700">1</text>
+    <text x="40" y="246" class="label">CONTRIBUTIONS (saison)</text>
+    <text x="860" y="246" text-anchor="end" class="value" fill="#2ecc40">n/a</text>
+    <text x="40" y="278" class="label">SPÉCIALITÉ</text>
+    <text x="860" y="278" text-anchor="end" class="value" fill="#2f81f7">Monkey C</text>
+  <line x1="40" y1="96" x2="860" y2="96" stroke="#d0d7de" stroke-width="1"/>
+</svg>

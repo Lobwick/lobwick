@@ -1,0 +1,58 @@
+<svg width="1000" height="320" viewBox="0 0 1000 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Carte du Tour: repositories places le long de la route">
+  <style>
+    .title { font: 800 18px "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .sub { font: 500 13px "Segoe UI", Helvetica, Arial, sans-serif; fill: #57606a; }
+    .town { font: 700 12px "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .star { font: 600 11px "Segoe UI", Helvetica, Arial, sans-serif; fill: #FFD700; }
+    .dash { stroke-dasharray: 10 10; animation: drive 2.2s linear infinite; }
+    @keyframes drive { to { stroke-dashoffset: -40; } }
+  </style>
+  <rect x="0" y="0" width="1000" height="320" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="26" y="28" class="title">LA CARTE DU TOUR</text>
+  <text x="26" y="48" class="sub">10 repositories publics — top 8 villes-etapes par etoiles</text>
+  <rect x="60" y="225" width="880" height="10" rx="5" fill="#8c959f"/>
+  <line x1="60" y1="230" x2="940" y2="230" stroke="#ffffff" stroke-width="1.5" class="dash" opacity="0.8"/>
+  <text x="60" y="256" class="sub">🏁 2017</text>
+  <text x="940" y="256" text-anchor="end" class="sub">2026 🚴</text>
+  
+        <line x1="70.0" y1="230" x2="70.0" y2="206.0" stroke="#8c959f" stroke-width="2"/>
+        <circle cx="70.0" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
+        <text x="70.0" y="192.0" class="town" text-anchor="middle">WeatherAlarmG…</text>
+        <text x="70.0" y="178.0" class="star" text-anchor="middle">★ 0</text>
+      
+        <line x1="178.0" y1="230" x2="178.0" y2="206.0" stroke="#8c959f" stroke-width="2"/>
+        <circle cx="178.0" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
+        <text x="178.0" y="176.0" class="town" text-anchor="middle">NetatmoWidget</text>
+        <text x="178.0" y="162.0" class="star" text-anchor="middle">★ 0</text>
+      
+        <line x1="286.0" y1="230" x2="286.0" y2="206.0" stroke="#8c959f" stroke-width="2"/>
+        <circle cx="286.0" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
+        <text x="286.0" y="192.0" class="town" text-anchor="middle">RunTrackerAnd…</text>
+        <text x="286.0" y="178.0" class="star" text-anchor="middle">★ 0</text>
+      
+        <line x1="427.0" y1="230" x2="427.0" y2="110.0" stroke="#8c959f" stroke-width="2"/>
+        <circle cx="427.0" cy="110.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
+        <text x="427.0" y="80.0" class="town" text-anchor="middle">BluconGarminW…</text>
+        <text x="427.0" y="66.0" class="star" text-anchor="middle">★ 1</text>
+      
+        <line x1="535.0" y1="230" x2="535.0" y2="206.0" stroke="#8c959f" stroke-width="2"/>
+        <circle cx="535.0" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
+        <text x="535.0" y="192.0" class="town" text-anchor="middle">HomeAssistant</text>
+        <text x="535.0" y="178.0" class="star" text-anchor="middle">★ 0</text>
+      
+        <line x1="643.0" y1="230" x2="643.0" y2="206.0" stroke="#8c959f" stroke-width="2"/>
+        <circle cx="643.0" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
+        <text x="643.0" y="176.0" class="town" text-anchor="middle">lobwick.githu…</text>
+        <text x="643.0" y="162.0" class="star" text-anchor="middle">★ 0</text>
+      
+        <line x1="751.0" y1="230" x2="751.0" y2="206.0" stroke="#8c959f" stroke-width="2"/>
+        <circle cx="751.0" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
+        <text x="751.0" y="192.0" class="town" text-anchor="middle">GlucoseDirect…</text>
+        <text x="751.0" y="178.0" class="star" text-anchor="middle">★ 0</text>
+      
+        <line x1="909.5" y1="230" x2="909.5" y2="206.0" stroke="#8c959f" stroke-width="2"/>
+        <circle cx="909.5" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
+        <text x="909.5" y="176.0" class="town" text-anchor="middle">SugarPace</text>
+        <text x="909.5" y="162.0" class="star" text-anchor="middle">★ 0</text>
+      
+</svg>
