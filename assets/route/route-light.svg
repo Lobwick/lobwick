@@ -50,9 +50,9 @@
         <text x="751.0" y="192.0" class="town" text-anchor="middle">GlucoseDirect…</text>
         <text x="751.0" y="178.0" class="star" text-anchor="middle">★ 0</text>
       
-        <line x1="909.5" y1="230" x2="909.5" y2="206.0" stroke="#8c959f" stroke-width="2"/>
-        <circle cx="909.5" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
-        <text x="909.5" y="176.0" class="town" text-anchor="middle">SugarPace</text>
-        <text x="909.5" y="162.0" class="star" text-anchor="middle">★ 0</text>
+        <line x1="909.4" y1="230" x2="909.4" y2="206.0" stroke="#8c959f" stroke-width="2"/>
+        <circle cx="909.4" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
+        <text x="909.4" y="176.0" class="town" text-anchor="middle">SugarPace</text>
+        <text x="909.4" y="162.0" class="star" text-anchor="middle">★ 0</text>
       
 </svg>

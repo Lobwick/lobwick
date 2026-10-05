@@ -80,14 +80,14 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
-📻 <b>2026-10-05</b> Push sur <a href="https://github.com/Lobwick/lobwick/commit/bd7a6b268040fabd41dafb40845e696775a27b7d">Lobwick/lobwick</a>
-🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/lobwick">Lobwick/lobwick</a>
-🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/lobwick">Lobwick/lobwick</a>
-📻 <b>2026-10-05</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/d2317b748f1a7e08b06f8d19323c3b96a1d14d28">newteamspecializedlille/newteamspecializedlille.github.io</a>
-📻 <b>2026-10-05</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/da42501682b672344f27d2fc67edd1d54eb1114d">newteamspecializedlille/newteamspecializedlille.github.io</a>
-📻 <b>2026-09-30</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/b55d6ad21f124575fd3560502e8201226cec9a9f">newteamspecializedlille/newteamspecializedlille.github.io</a>
-📻 <b>2026-09-19</b> Push sur <a href="https://github.com/Lobwick/sophie-revision/commit/07ecf2f4054920215119b1452c5be8e76a99992f">Lobwick/sophie-revision</a>
-🆕 <b>2026-09-19</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/sophie-revision">Lobwick/sophie-revision</a>
+🔀 <b>2026-10-05</b> PR opened — <a href="undefined">undefined</a> (Lobwick/SugarPace)
+🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
+🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
+🔀 <b>2026-10-05</b> PR opened — <a href="undefined">undefined</a> (Lobwick/SugarPace)
+🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
+🚩 <b>2026-10-05</b> Issue closed — <a href="https://github.com/Lobwick/SugarPace/issues/19">add-food: Test - POPO</a> (Lobwick/SugarPace)
+🔀 <b>2026-10-05</b> PR closed — <a href="undefined">undefined</a> (Lobwick/SugarPace)
+📻 <b>2026-10-05</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/9eb7f8e340db451d930c697136921e37ac9d157a">Lobwick/SugarPace</a>
 </pre>
 <!-- FEED:END -->
 
