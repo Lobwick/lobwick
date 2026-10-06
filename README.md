@@ -80,14 +80,14 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
+🆕 <b>2026-10-06</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
+📻 <b>2026-10-05</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/9e5aec70ee7adce46de35b85c22ddde3bff7a70c">Lobwick/SugarPace</a>
+🔀 <b>2026-10-06</b> PR merged — <a href="undefined">undefined</a> (Lobwick/SugarPace)
+🔀 <b>2026-10-06</b> PR opened — <a href="undefined">undefined</a> (Lobwick/SugarPace)
+📻 <b>2026-10-06</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/c472ad3188bf925e53c3fb3a37d95dc39eb0bdd9">Lobwick/SugarPace</a>
 🔀 <b>2026-10-05</b> PR opened — <a href="undefined">undefined</a> (Lobwick/SugarPace)
 🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
 🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
-🔀 <b>2026-10-05</b> PR opened — <a href="undefined">undefined</a> (Lobwick/SugarPace)
-🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
-🚩 <b>2026-10-05</b> Issue closed — <a href="https://github.com/Lobwick/SugarPace/issues/19">add-food: Test - POPO</a> (Lobwick/SugarPace)
-🔀 <b>2026-10-05</b> PR closed — <a href="undefined">undefined</a> (Lobwick/SugarPace)
-📻 <b>2026-10-05</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/9eb7f8e340db451d930c697136921e37ac9d157a">Lobwick/SugarPace</a>
 </pre>
 <!-- FEED:END -->
 
