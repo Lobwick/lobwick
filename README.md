@@ -80,14 +80,14 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
+📻 <b>2026-10-05</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/5516e9c1dfa50d5e1a31f26e1bd283f9612362a3">Lobwick/SugarPace</a>
 🆕 <b>2026-10-06</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
-📻 <b>2026-10-05</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/9e5aec70ee7adce46de35b85c22ddde3bff7a70c">Lobwick/SugarPace</a>
-🔀 <b>2026-10-06</b> PR merged — <a href="undefined">undefined</a> (Lobwick/SugarPace)
-🔀 <b>2026-10-06</b> PR opened — <a href="undefined">undefined</a> (Lobwick/SugarPace)
-📻 <b>2026-10-06</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/c472ad3188bf925e53c3fb3a37d95dc39eb0bdd9">Lobwick/SugarPace</a>
-🔀 <b>2026-10-05</b> PR opened — <a href="undefined">undefined</a> (Lobwick/SugarPace)
-🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
-🆕 <b>2026-10-05</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
+📻 <b>2026-10-06</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/ed1003f35780815fa0406d5ba2ca4c68d25789d5">Lobwick/SugarPace</a>
+📻 <b>2026-10-06</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/235305d7909a8af798b0141ced09857fc66efc9e">Lobwick/SugarPace</a>
+📻 <b>2026-10-06</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/3a68bcd5bb383aac9ba9b7e9f7b372ed94e6caf9">Lobwick/SugarPace</a>
+🆕 <b>2026-10-06</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
+📻 <b>2026-10-06</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/3635d07d75b5ad664771b32805561609878f12ff">Lobwick/SugarPace</a>
+📻 <b>2026-10-06</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/c531a2286ed41b8b558208f96aae4007b413081b">Lobwick/SugarPace</a>
 </pre>
 <!-- FEED:END -->
 
