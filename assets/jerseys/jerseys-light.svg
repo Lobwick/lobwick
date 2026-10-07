@@ -20,7 +20,7 @@
     </g>
     <text x="125" y="192" text-anchor="middle" class="jtitle" fill="#1f2328">MAILLOT JAUNE</text>
     <text x="125" y="212" text-anchor="middle" class="jholder" fill="#1f2328">Classement général</text>
-    <text x="125" y="230" text-anchor="middle" class="jstat" fill="#57606a">11 repos · 14 abonnés</text>
+    <text x="125" y="230" text-anchor="middle" class="jstat" fill="#57606a">13 repos · 14 abonnés</text>
   
     <g transform="translate(310.0, 36) scale(1.3)">
       <path d="M30,10 L40,0 L60,0 L70,10 L95,22 L83,42 L75,34 L75,96 L25,96 L25,34 L17,42 L5,22 Z" fill="#2ecc40" stroke="undefined" stroke-width="1.5"/>

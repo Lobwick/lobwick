@@ -80,14 +80,14 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
+📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/f00c1045562c417246b893f2e2c37e394308456a">Lobwick/ai-bike-coach</a>
+🔀 <b>2026-10-07</b> PR merged — <a href="undefined">undefined</a> (Lobwick/open-wearables)
+🔀 <b>2026-10-07</b> PR opened — <a href="undefined">undefined</a> (Lobwick/open-wearables)
+🔀 <b>2026-10-07</b> PR opened — <a href="undefined">undefined</a> (the-momentum/open-wearables)
+🍴 <b>2026-10-07</b> Activité sur <a href="https://github.com/the-momentum/open-wearables">the-momentum/open-wearables</a>
+🍴 <b>2026-10-07</b> Activité sur <a href="https://github.com/mmornati/ai-running-coach">mmornati/ai-running-coach</a>
 📻 <b>2026-10-06</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/eb5ed8d2c8c91f4edc3868e06a7d6ea1c276d688">Lobwick/SugarPace</a>
 📻 <b>2026-10-06</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/7bcd26b270560e4a4d20dca85ccc97e34d187c7d">Lobwick/SugarPace</a>
-📻 <b>2026-10-05</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/5516e9c1dfa50d5e1a31f26e1bd283f9612362a3">Lobwick/SugarPace</a>
-🆕 <b>2026-10-06</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
-📻 <b>2026-10-06</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/ed1003f35780815fa0406d5ba2ca4c68d25789d5">Lobwick/SugarPace</a>
-📻 <b>2026-10-06</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/235305d7909a8af798b0141ced09857fc66efc9e">Lobwick/SugarPace</a>
-📻 <b>2026-10-06</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/3a68bcd5bb383aac9ba9b7e9f7b372ed94e6caf9">Lobwick/SugarPace</a>
-🆕 <b>2026-10-06</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
 </pre>
 <!-- FEED:END -->
 

@@ -19,7 +19,7 @@
     <text x="40" y="150" class="label">DOSSARD</text>
     <text x="860" y="150" text-anchor="end" class="value" fill="#2f81f7">#1 — DEC</text>
     <text x="40" y="182" class="label">CLASSEMENT (repos publics)</text>
-    <text x="860" y="182" text-anchor="end" class="value" fill="#e6edf3">11</text>
+    <text x="860" y="182" text-anchor="end" class="value" fill="#e6edf3">13</text>
     <text x="40" y="214" class="label">ÉTOILES CUMULÉES</text>
     <text x="860" y="214" text-anchor="end" class="value" fill="#FFD700">1</text>
     <text x="40" y="246" class="label">CONTRIBUTIONS (saison)</text>
