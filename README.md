@@ -80,14 +80,14 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
-📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/a83c17faca2688866c5a9acb9e4798465dc64119">Lobwick/ai-bike-coach</a>
-📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/973636333bb4d859d9713985cd203570255973af">Lobwick/ai-bike-coach</a>
-🆕 <b>2026-10-06</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/SugarPace">Lobwick/SugarPace</a>
-📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/open-wearables/commit/ebd2e7d694bdf736f00dd3e4bb0d14f6f13bf5e8">Lobwick/open-wearables</a>
-📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/f00c1045562c417246b893f2e2c37e394308456a">Lobwick/ai-bike-coach</a>
-🔀 <b>2026-10-07</b> PR merged — <a href="undefined">undefined</a> (Lobwick/open-wearables)
-🔀 <b>2026-10-07</b> PR opened — <a href="undefined">undefined</a> (Lobwick/open-wearables)
-🔀 <b>2026-10-07</b> PR opened — <a href="undefined">undefined</a> (the-momentum/open-wearables)
+📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/769e9e68edfdf1ab1ee31139c9b85869994eaa3f">Lobwick/ai-bike-coach</a>
+📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/b1382e9ee0e7bd59f73bd887e253d079cb2e41ce">Lobwick/ai-bike-coach</a>
+📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/8cdbcd2b6ed2db31419a06c1b212cade00104f75">Lobwick/ai-bike-coach</a>
+📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/95ceb6ab9ec7d39f09e61e736aee58a90bd0f7d9">Lobwick/ai-bike-coach</a>
+📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/cbac85682f39eb9cbbce3fdab176b1f9c2f1a797">Lobwick/ai-bike-coach</a>
+📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/open-wearables/commit/07514d4c29b5ef0d2520e5739f56b961d24c8cb5">Lobwick/open-wearables</a>
+📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/5dfced76ffd7d3d40cb483c92afe29619f4b43d2">Lobwick/ai-bike-coach</a>
+🆕 <b>2026-10-07</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/open-wearables">Lobwick/open-wearables</a>
 </pre>
 <!-- FEED:END -->
 
