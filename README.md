@@ -80,6 +80,7 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
+📻 <b>2026-10-08</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/d7057027202344efd16fedaf06de4600d6738e97">Lobwick/ai-bike-coach</a>
 📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/769e9e68edfdf1ab1ee31139c9b85869994eaa3f">Lobwick/ai-bike-coach</a>
 📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/b1382e9ee0e7bd59f73bd887e253d079cb2e41ce">Lobwick/ai-bike-coach</a>
 📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/8cdbcd2b6ed2db31419a06c1b212cade00104f75">Lobwick/ai-bike-coach</a>
@@ -87,7 +88,6 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/cbac85682f39eb9cbbce3fdab176b1f9c2f1a797">Lobwick/ai-bike-coach</a>
 📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/open-wearables/commit/07514d4c29b5ef0d2520e5739f56b961d24c8cb5">Lobwick/open-wearables</a>
 📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/5dfced76ffd7d3d40cb483c92afe29619f4b43d2">Lobwick/ai-bike-coach</a>
-🆕 <b>2026-10-07</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/open-wearables">Lobwick/open-wearables</a>
 </pre>
 <!-- FEED:END -->
 
