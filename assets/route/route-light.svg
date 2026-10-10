@@ -30,25 +30,25 @@
         <text x="286.0" y="192.0" class="town" text-anchor="middle">RunTrackerAnd…</text>
         <text x="286.0" y="178.0" class="star" text-anchor="middle">★ 0</text>
       
-        <line x1="426.6" y1="230" x2="426.6" y2="110.0" stroke="#8c959f" stroke-width="2"/>
-        <circle cx="426.6" cy="110.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
-        <text x="426.6" y="80.0" class="town" text-anchor="middle">BluconGarminW…</text>
-        <text x="426.6" y="66.0" class="star" text-anchor="middle">★ 1</text>
+        <line x1="426.5" y1="230" x2="426.5" y2="110.0" stroke="#8c959f" stroke-width="2"/>
+        <circle cx="426.5" cy="110.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
+        <text x="426.5" y="80.0" class="town" text-anchor="middle">BluconGarminW…</text>
+        <text x="426.5" y="66.0" class="star" text-anchor="middle">★ 1</text>
       
-        <line x1="534.6" y1="230" x2="534.6" y2="206.0" stroke="#8c959f" stroke-width="2"/>
-        <circle cx="534.6" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
-        <text x="534.6" y="192.0" class="town" text-anchor="middle">HomeAssistant</text>
-        <text x="534.6" y="178.0" class="star" text-anchor="middle">★ 0</text>
+        <line x1="534.5" y1="230" x2="534.5" y2="206.0" stroke="#8c959f" stroke-width="2"/>
+        <circle cx="534.5" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
+        <text x="534.5" y="192.0" class="town" text-anchor="middle">HomeAssistant</text>
+        <text x="534.5" y="178.0" class="star" text-anchor="middle">★ 0</text>
       
-        <line x1="642.6" y1="230" x2="642.6" y2="206.0" stroke="#8c959f" stroke-width="2"/>
-        <circle cx="642.6" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
-        <text x="642.6" y="176.0" class="town" text-anchor="middle">lobwick.githu…</text>
-        <text x="642.6" y="162.0" class="star" text-anchor="middle">★ 0</text>
+        <line x1="642.5" y1="230" x2="642.5" y2="206.0" stroke="#8c959f" stroke-width="2"/>
+        <circle cx="642.5" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
+        <text x="642.5" y="176.0" class="town" text-anchor="middle">lobwick.githu…</text>
+        <text x="642.5" y="162.0" class="star" text-anchor="middle">★ 0</text>
       
-        <line x1="750.6" y1="230" x2="750.6" y2="206.0" stroke="#8c959f" stroke-width="2"/>
-        <circle cx="750.6" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
-        <text x="750.6" y="192.0" class="town" text-anchor="middle">GlucoseDirect…</text>
-        <text x="750.6" y="178.0" class="star" text-anchor="middle">★ 0</text>
+        <line x1="750.5" y1="230" x2="750.5" y2="206.0" stroke="#8c959f" stroke-width="2"/>
+        <circle cx="750.5" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
+        <text x="750.5" y="192.0" class="town" text-anchor="middle">GlucoseDirect…</text>
+        <text x="750.5" y="178.0" class="star" text-anchor="middle">★ 0</text>
       
         <line x1="908.4" y1="230" x2="908.4" y2="206.0" stroke="#8c959f" stroke-width="2"/>
         <circle cx="908.4" cy="206.0" r="7" fill="#FFD700" stroke="#f6f8fa" stroke-width="2"/>
