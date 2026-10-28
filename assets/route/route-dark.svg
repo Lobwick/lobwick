@@ -9,50 +9,50 @@
   </style>
   <rect x="0" y="0" width="1000" height="320" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
   <text x="26" y="28" class="title">LA CARTE DU TOUR</text>
-  <text x="26" y="48" class="sub">12 repositories publics — top 8 villes-etapes par etoiles</text>
+  <text x="26" y="48" class="sub">10 repositories publics — top 8 villes-etapes par etoiles</text>
   <rect x="60" y="225" width="880" height="10" rx="5" fill="#484f58"/>
   <line x1="60" y1="230" x2="940" y2="230" stroke="#ffffff" stroke-width="1.5" class="dash" opacity="0.8"/>
-  <text x="60" y="256" class="sub">🏁 2017</text>
+  <text x="60" y="256" class="sub">🏁 2021</text>
   <text x="940" y="256" text-anchor="end" class="sub">2026 🚴</text>
   
-        <line x1="70.0" y1="230" x2="70.0" y2="206.0" stroke="#484f58" stroke-width="2"/>
-        <circle cx="70.0" cy="206.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
-        <text x="70.0" y="192.0" class="town" text-anchor="middle">WeatherAlarmG…</text>
-        <text x="70.0" y="178.0" class="star" text-anchor="middle">★ 0</text>
+        <line x1="70.0" y1="230" x2="70.0" y2="110.0" stroke="#484f58" stroke-width="2"/>
+        <circle cx="70.0" cy="110.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
+        <text x="70.0" y="96.0" class="town" text-anchor="middle">BluconGarminW…</text>
+        <text x="70.0" y="82.0" class="star" text-anchor="middle">★ 1</text>
       
         <line x1="178.0" y1="230" x2="178.0" y2="206.0" stroke="#484f58" stroke-width="2"/>
         <circle cx="178.0" cy="206.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
-        <text x="178.0" y="176.0" class="town" text-anchor="middle">NetatmoWidget</text>
+        <text x="178.0" y="176.0" class="town" text-anchor="middle">HomeAssistant</text>
         <text x="178.0" y="162.0" class="star" text-anchor="middle">★ 0</text>
       
-        <line x1="286.0" y1="230" x2="286.0" y2="206.0" stroke="#484f58" stroke-width="2"/>
-        <circle cx="286.0" cy="206.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
-        <text x="286.0" y="192.0" class="town" text-anchor="middle">RunTrackerAnd…</text>
-        <text x="286.0" y="178.0" class="star" text-anchor="middle">★ 0</text>
+        <line x1="289.4" y1="230" x2="289.4" y2="206.0" stroke="#484f58" stroke-width="2"/>
+        <circle cx="289.4" cy="206.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
+        <text x="289.4" y="192.0" class="town" text-anchor="middle">lobwick.githu…</text>
+        <text x="289.4" y="178.0" class="star" text-anchor="middle">★ 0</text>
       
-        <line x1="424.7" y1="230" x2="424.7" y2="110.0" stroke="#484f58" stroke-width="2"/>
-        <circle cx="424.7" cy="110.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
-        <text x="424.7" y="80.0" class="town" text-anchor="middle">BluconGarminW…</text>
-        <text x="424.7" y="66.0" class="star" text-anchor="middle">★ 1</text>
+        <line x1="498.0" y1="230" x2="498.0" y2="206.0" stroke="#484f58" stroke-width="2"/>
+        <circle cx="498.0" cy="206.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
+        <text x="498.0" y="176.0" class="town" text-anchor="middle">SugarPace</text>
+        <text x="498.0" y="162.0" class="star" text-anchor="middle">★ 0</text>
       
-        <line x1="532.7" y1="230" x2="532.7" y2="206.0" stroke="#484f58" stroke-width="2"/>
-        <circle cx="532.7" cy="206.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
-        <text x="532.7" y="192.0" class="town" text-anchor="middle">HomeAssistant</text>
-        <text x="532.7" y="178.0" class="star" text-anchor="middle">★ 0</text>
+        <line x1="606.0" y1="230" x2="606.0" y2="206.0" stroke="#484f58" stroke-width="2"/>
+        <circle cx="606.0" cy="206.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
+        <text x="606.0" y="192.0" class="town" text-anchor="middle">sophie-revisi…</text>
+        <text x="606.0" y="178.0" class="star" text-anchor="middle">★ 0</text>
       
-        <line x1="640.7" y1="230" x2="640.7" y2="206.0" stroke="#484f58" stroke-width="2"/>
-        <circle cx="640.7" cy="206.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
-        <text x="640.7" y="176.0" class="town" text-anchor="middle">lobwick.githu…</text>
-        <text x="640.7" y="162.0" class="star" text-anchor="middle">★ 0</text>
+        <line x1="714.0" y1="230" x2="714.0" y2="206.0" stroke="#484f58" stroke-width="2"/>
+        <circle cx="714.0" cy="206.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
+        <text x="714.0" y="176.0" class="town" text-anchor="middle">lobwick</text>
+        <text x="714.0" y="162.0" class="star" text-anchor="middle">★ 0</text>
       
-        <line x1="748.7" y1="230" x2="748.7" y2="206.0" stroke="#484f58" stroke-width="2"/>
-        <circle cx="748.7" cy="206.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
-        <text x="748.7" y="192.0" class="town" text-anchor="middle">GlucoseDirect…</text>
-        <text x="748.7" y="178.0" class="star" text-anchor="middle">★ 0</text>
+        <line x1="822.0" y1="230" x2="822.0" y2="206.0" stroke="#484f58" stroke-width="2"/>
+        <circle cx="822.0" cy="206.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
+        <text x="822.0" y="192.0" class="town" text-anchor="middle">MaSaison</text>
+        <text x="822.0" y="178.0" class="star" text-anchor="middle">★ 0</text>
       
-        <line x1="904.0" y1="230" x2="904.0" y2="206.0" stroke="#484f58" stroke-width="2"/>
-        <circle cx="904.0" cy="206.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
-        <text x="904.0" y="176.0" class="town" text-anchor="middle">SugarPace</text>
-        <text x="904.0" y="162.0" class="star" text-anchor="middle">★ 0</text>
+        <line x1="930.0" y1="230" x2="930.0" y2="206.0" stroke="#484f58" stroke-width="2"/>
+        <circle cx="930.0" cy="206.0" r="7" fill="#FFD700" stroke="#161b22" stroke-width="2"/>
+        <text x="930.0" y="176.0" class="town" text-anchor="middle">ha-washer-sma…</text>
+        <text x="930.0" y="162.0" class="star" text-anchor="middle">★ 0</text>
       
 </svg>
