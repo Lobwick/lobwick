@@ -80,14 +80,14 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
+📻 <b>2026-10-28</b> Push sur <a href="https://github.com/Lobwick/hometrainer-to-home-assistant-integration/commit/14f0dfdf2be145b15136ba87ea6cc47c3259d9dd">Lobwick/hometrainer-to-home-assistant-integration</a>
+📻 <b>2026-10-28</b> Push sur <a href="https://github.com/Lobwick/hometrainer-to-home-assistant/commit/d1eae5818ada8ecb426aab64e616872ff875dabc">Lobwick/hometrainer-to-home-assistant</a>
+📻 <b>2026-10-28</b> Push sur <a href="https://github.com/Lobwick/hometrainer-to-home-assistant-integration/commit/4c399cd3ec37e7985fee98cead7cb381e4641515">Lobwick/hometrainer-to-home-assistant-integration</a>
 🆕 <b>2026-10-25</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/ha-washer-smarthings">Lobwick/ha-washer-smarthings</a>
 📻 <b>2026-10-20</b> Push sur <a href="https://github.com/Lobwick/SugarPace/commit/c321b9fcd3ac35fde231bd14ac151af3a730239e">Lobwick/SugarPace</a>
 📻 <b>2026-10-13</b> Push sur <a href="https://github.com/Lobwick/MaSaison/commit/574b4e8e98eca4f86df9885e46a7601585d81d10">Lobwick/MaSaison</a>
 📻 <b>2026-10-09</b> Push sur <a href="https://github.com/Lobwick/sophie-revision/commit/9306bb8b014178d8155a6326de199956b5d3dcea">Lobwick/sophie-revision</a>
 📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/3c81f529a90d743f31e3eaf4c220289db99540c0">Lobwick/ai-bike-coach</a>
-📻 <b>2026-10-08</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/d7057027202344efd16fedaf06de4600d6738e97">Lobwick/ai-bike-coach</a>
-📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/769e9e68edfdf1ab1ee31139c9b85869994eaa3f">Lobwick/ai-bike-coach</a>
-📻 <b>2026-10-07</b> Push sur <a href="https://github.com/Lobwick/ai-bike-coach/commit/b1382e9ee0e7bd59f73bd887e253d079cb2e41ce">Lobwick/ai-bike-coach</a>
 </pre>
 <!-- FEED:END -->
 
