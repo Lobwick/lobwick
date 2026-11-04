@@ -80,14 +80,14 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
+📻 <b>2026-11-04</b> Push sur <a href="https://github.com/Lobwick/zwift-map-home-assistant/commit/ff1836d7c64393eed45194e49488a16b73439288">Lobwick/zwift-map-home-assistant</a>
+📻 <b>2026-11-04</b> Push sur <a href="https://github.com/Lobwick/zwift-map-home-assistant/commit/ce216cbecc2a63b860a7570948b1f336f1258757">Lobwick/zwift-map-home-assistant</a>
+🔀 <b>2026-11-04</b> PR merged — <a href="undefined">undefined</a> (Lobwick/zwift-map-home-assistant)
+🔀 <b>2026-11-04</b> PR opened — <a href="undefined">undefined</a> (Lobwick/zwift-map-home-assistant)
+🔀 <b>2026-11-04</b> PR merged — <a href="undefined">undefined</a> (the-momentum/open-wearables)
 🆕 <b>2026-11-04</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/zwift-map-home-assistant">Lobwick/zwift-map-home-assistant</a>
 💬 <b>2026-11-04</b> Activité sur <a href="https://github.com/Lobwick/zwift-map-home-assistant">Lobwick/zwift-map-home-assistant</a>
 🔀 <b>2026-11-04</b> PR merged — <a href="undefined">undefined</a> (Lobwick/zwift-map-home-assistant)
-💬 <b>2026-11-04</b> Activité sur <a href="https://github.com/Lobwick/zwift-map-home-assistant">Lobwick/zwift-map-home-assistant</a>
-🔀 <b>2026-11-04</b> PR opened — <a href="undefined">undefined</a> (Lobwick/zwift-map-home-assistant)
-📻 <b>2026-10-28</b> Push sur <a href="https://github.com/Lobwick/hometrainer-to-home-assistant-integration/commit/14f0dfdf2be145b15136ba87ea6cc47c3259d9dd">Lobwick/hometrainer-to-home-assistant-integration</a>
-📻 <b>2026-10-28</b> Push sur <a href="https://github.com/Lobwick/hometrainer-to-home-assistant/commit/d1eae5818ada8ecb426aab64e616872ff875dabc">Lobwick/hometrainer-to-home-assistant</a>
-📻 <b>2026-10-28</b> Push sur <a href="https://github.com/Lobwick/hometrainer-to-home-assistant-integration/commit/4c399cd3ec37e7985fee98cead7cb381e4641515">Lobwick/hometrainer-to-home-assistant-integration</a>
 </pre>
 <!-- FEED:END -->
 
