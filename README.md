@@ -80,6 +80,7 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
+📻 <b>2026-11-09</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/aadfe8e712e3fe7e8eccd5e7becd2705a5a690bf">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-11-09</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/58d365b7d0740b41ddc443808b905f97d6278950">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-11-04</b> Push sur <a href="https://github.com/Lobwick/zwift-map-home-assistant/commit/5af165adcc81398dcb8eb5201394471390cb9bc9">Lobwick/zwift-map-home-assistant</a>
 📻 <b>2026-11-04</b> Push sur <a href="https://github.com/Lobwick/zwift-map-home-assistant/commit/2649a92ff9e7b1a04856cea5e45029ec8f07e1e5">Lobwick/zwift-map-home-assistant</a>
@@ -87,7 +88,6 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 📻 <b>2026-11-04</b> Push sur <a href="https://github.com/Lobwick/zwift-map-home-assistant/commit/ce216cbecc2a63b860a7570948b1f336f1258757">Lobwick/zwift-map-home-assistant</a>
 🔀 <b>2026-11-04</b> PR merged — <a href="undefined">undefined</a> (Lobwick/zwift-map-home-assistant)
 🔀 <b>2026-11-04</b> PR opened — <a href="undefined">undefined</a> (Lobwick/zwift-map-home-assistant)
-🔀 <b>2026-11-04</b> PR merged — <a href="undefined">undefined</a> (the-momentum/open-wearables)
 </pre>
 <!-- FEED:END -->
 
