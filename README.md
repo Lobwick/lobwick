@@ -80,6 +80,7 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
+🆕 <b>2026-11-12</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/MaSaison">Lobwick/MaSaison</a>
 🔀 <b>2026-11-13</b> PR opened — <a href="undefined">undefined</a> (Lobwick/MaSaison)
 🚩 <b>2026-11-13</b> Issue closed — <a href="https://github.com/Lobwick/MaSaison/issues/6">Fiche course : contact organisateur et règlement en PDF</a> (Lobwick/MaSaison)
 🔀 <b>2026-11-13</b> PR merged — <a href="undefined">undefined</a> (Lobwick/MaSaison)
@@ -87,7 +88,6 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 🔀 <b>2026-11-13</b> PR merged — <a href="undefined">undefined</a> (Lobwick/MaSaison)
 🚩 <b>2026-11-13</b> Issue closed — <a href="https://github.com/Lobwick/MaSaison/issues/5">Fiche course : temps de trajet depuis ma position</a> (Lobwick/MaSaison)
 🔀 <b>2026-11-13</b> PR opened — <a href="undefined">undefined</a> (Lobwick/MaSaison)
-🚩 <b>2026-11-13</b> Issue labeled — <a href="https://github.com/Lobwick/MaSaison/issues/32">Accessibilité : taille de texte dynamique et mode clair</a> (Lobwick/MaSaison)
 </pre>
 <!-- FEED:END -->
 
