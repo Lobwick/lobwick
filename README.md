@@ -80,14 +80,14 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
-🆕 <b>2026-11-12</b> Nouvelle branche/tag sur <a href="https://github.com/Lobwick/MaSaison">Lobwick/MaSaison</a>
-🔀 <b>2026-11-13</b> PR opened — <a href="undefined">undefined</a> (Lobwick/MaSaison)
-🚩 <b>2026-11-13</b> Issue closed — <a href="https://github.com/Lobwick/MaSaison/issues/6">Fiche course : contact organisateur et règlement en PDF</a> (Lobwick/MaSaison)
-🔀 <b>2026-11-13</b> PR merged — <a href="undefined">undefined</a> (Lobwick/MaSaison)
-🔀 <b>2026-11-13</b> PR opened — <a href="undefined">undefined</a> (Lobwick/MaSaison)
-🔀 <b>2026-11-13</b> PR merged — <a href="undefined">undefined</a> (Lobwick/MaSaison)
-🚩 <b>2026-11-13</b> Issue closed — <a href="https://github.com/Lobwick/MaSaison/issues/5">Fiche course : temps de trajet depuis ma position</a> (Lobwick/MaSaison)
-🔀 <b>2026-11-13</b> PR opened — <a href="undefined">undefined</a> (Lobwick/MaSaison)
+🚩 <b>2026-11-14</b> Issue opened — <a href="https://github.com/Lobwick/MaSaison/issues/39">ajouter de l'analytics</a> (Lobwick/MaSaison)
+🔀 <b>2026-11-14</b> PR merged — <a href="undefined">undefined</a> (Lobwick/MaSaison)
+🔀 <b>2026-11-14</b> PR opened — <a href="undefined">undefined</a> (Lobwick/MaSaison)
+🚩 <b>2026-11-14</b> Issue opened — <a href="https://github.com/Lobwick/MaSaison/issues/37">Display more information in card</a> (Lobwick/MaSaison)
+🚩 <b>2026-11-14</b> Issue reopened — <a href="https://github.com/Lobwick/MaSaison/issues/12">Découverte : vue carte des courses autour de moi et vue calendrier mensuelle</a> (Lobwick/MaSaison)
+🚩 <b>2026-11-14</b> Issue closed — <a href="https://github.com/Lobwick/MaSaison/issues/12">Découverte : vue carte des courses autour de moi et vue calendrier mensuelle</a> (Lobwick/MaSaison)
+🔀 <b>2026-11-14</b> PR merged — <a href="undefined">undefined</a> (Lobwick/MaSaison)
+📻 <b>2026-11-13</b> Push sur <a href="https://github.com/Lobwick/MaSaison/commit/9f6f228f6ea67674e7fe22ce823039b0210ac2d2">Lobwick/MaSaison</a>
 </pre>
 <!-- FEED:END -->
 
