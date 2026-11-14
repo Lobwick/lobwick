@@ -80,14 +80,14 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
-🚩 <b>2026-11-14</b> Issue opened — <a href="https://github.com/Lobwick/MaSaison/issues/39">ajouter de l'analytics</a> (Lobwick/MaSaison)
-🔀 <b>2026-11-14</b> PR merged — <a href="undefined">undefined</a> (Lobwick/MaSaison)
-🔀 <b>2026-11-14</b> PR opened — <a href="undefined">undefined</a> (Lobwick/MaSaison)
-🚩 <b>2026-11-14</b> Issue opened — <a href="https://github.com/Lobwick/MaSaison/issues/37">Display more information in card</a> (Lobwick/MaSaison)
-🚩 <b>2026-11-14</b> Issue reopened — <a href="https://github.com/Lobwick/MaSaison/issues/12">Découverte : vue carte des courses autour de moi et vue calendrier mensuelle</a> (Lobwick/MaSaison)
-🚩 <b>2026-11-14</b> Issue closed — <a href="https://github.com/Lobwick/MaSaison/issues/12">Découverte : vue carte des courses autour de moi et vue calendrier mensuelle</a> (Lobwick/MaSaison)
-🔀 <b>2026-11-14</b> PR merged — <a href="undefined">undefined</a> (Lobwick/MaSaison)
-📻 <b>2026-11-13</b> Push sur <a href="https://github.com/Lobwick/MaSaison/commit/9f6f228f6ea67674e7fe22ce823039b0210ac2d2">Lobwick/MaSaison</a>
+📻 <b>2026-11-12</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/d804df1ae9439cf3e30455ed88b54a8947f51465">newteamspecializedlille/newteamspecializedlille.github.io</a>
+📻 <b>2026-11-09</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/aadfe8e712e3fe7e8eccd5e7becd2705a5a690bf">newteamspecializedlille/newteamspecializedlille.github.io</a>
+📻 <b>2026-11-09</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/58d365b7d0740b41ddc443808b905f97d6278950">newteamspecializedlille/newteamspecializedlille.github.io</a>
+📻 <b>2026-11-04</b> Push sur <a href="https://github.com/Lobwick/zwift-map-home-assistant/commit/5af165adcc81398dcb8eb5201394471390cb9bc9">Lobwick/zwift-map-home-assistant</a>
+📻 <b>2026-11-04</b> Push sur <a href="https://github.com/Lobwick/zwift-map-home-assistant/commit/2649a92ff9e7b1a04856cea5e45029ec8f07e1e5">Lobwick/zwift-map-home-assistant</a>
+📻 <b>2026-11-04</b> Push sur <a href="https://github.com/Lobwick/zwift-map-home-assistant/commit/ff1836d7c64393eed45194e49488a16b73439288">Lobwick/zwift-map-home-assistant</a>
+📻 <b>2026-11-04</b> Push sur <a href="https://github.com/Lobwick/zwift-map-home-assistant/commit/ce216cbecc2a63b860a7570948b1f336f1258757">Lobwick/zwift-map-home-assistant</a>
+🔀 <b>2026-11-04</b> PR merged — <a href="undefined">undefined</a> (Lobwick/zwift-map-home-assistant)
 </pre>
 <!-- FEED:END -->
 
