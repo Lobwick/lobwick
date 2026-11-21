@@ -80,14 +80,14 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
+📻 <b>2026-11-20</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/59b557d70f4fa9caf5fe876d9aec8e40822d12ed">newteamspecializedlille/newteamspecializedlille.github.io</a>
+📻 <b>2026-11-20</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/28966c73bf4f9d9fd8506538081fec77e2f45d60">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-11-20</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/e72bd59d7e59757ecb2f2c154444c00453c82a47">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-11-18</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/96dc1f3e0a795570bf7cbef3761f2be80635f06d">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-11-19</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/a59ace1d79aca5c7c9eeab4f284c566404064f01">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-11-12</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/d804df1ae9439cf3e30455ed88b54a8947f51465">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-11-09</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/aadfe8e712e3fe7e8eccd5e7becd2705a5a690bf">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-11-09</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/58d365b7d0740b41ddc443808b905f97d6278950">newteamspecializedlille/newteamspecializedlille.github.io</a>
-📻 <b>2026-11-04</b> Push sur <a href="https://github.com/Lobwick/zwift-map-home-assistant/commit/5af165adcc81398dcb8eb5201394471390cb9bc9">Lobwick/zwift-map-home-assistant</a>
-📻 <b>2026-11-04</b> Push sur <a href="https://github.com/Lobwick/zwift-map-home-assistant/commit/2649a92ff9e7b1a04856cea5e45029ec8f07e1e5">Lobwick/zwift-map-home-assistant</a>
 </pre>
 <!-- FEED:END -->
 
