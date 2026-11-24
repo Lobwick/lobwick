@@ -80,6 +80,7 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 
 <!-- FEED:START -->
 <pre>
+📻 <b>2026-11-23</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/a3bc962a1621a9c23d182580da112daf32265e78">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-11-20</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/794a20397c4ff06e7e23f7add4f6e3dad004a816">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-11-20</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/3d02493c541f26b560078e7de4bb350d86cc3e71">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-11-19</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/6d47c485eab42677f406473d294381656547f16a">newteamspecializedlille/newteamspecializedlille.github.io</a>
@@ -87,7 +88,6 @@ En parallèle, je m'intéresse aux **objets connectés** et à ce qu'ils peuvent
 📻 <b>2026-11-19</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/dccaf5ca779070cdcb8f5b5b9bccfcf0bd7c9317">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-11-19</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/d618f41c973083768688cc6c1ab676cc0f2ca7d9">newteamspecializedlille/newteamspecializedlille.github.io</a>
 📻 <b>2026-11-19</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/e14b7026ed4e65ceca83f2ddd05fac6789309037">newteamspecializedlille/newteamspecializedlille.github.io</a>
-📻 <b>2026-11-20</b> Push sur <a href="https://github.com/newteamspecializedlille/newteamspecializedlille.github.io/commit/59b557d70f4fa9caf5fe876d9aec8e40822d12ed">newteamspecializedlille/newteamspecializedlille.github.io</a>
 </pre>
 <!-- FEED:END -->
 
